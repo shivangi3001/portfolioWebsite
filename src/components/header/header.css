@@ -31,13 +31,19 @@
 
 .header-container h3 p{
     font-size: 15px;
+    /* color: var(--color-pri); */
+}
+
+.header-container h3 p span {
+    font-size: 20px;
     color: var(--color-pri);
 }
 
 .header-container h2{
     font-size: 16px;
     font-weight: 100;
-    color: var(--color-pri);
-    font-family: "open Sans";
+    color:var(--color-pri);
+    font-family: "Open Sans";
     letter-spacing: 1px;
+
 }
