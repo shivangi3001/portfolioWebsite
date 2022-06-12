@@ -16,4 +16,4 @@ function WebContent() {
   );
 }
 
-export default App;
+export default WebContent;

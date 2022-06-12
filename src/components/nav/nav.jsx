@@ -29,7 +29,7 @@ function Navbar (){
 
 let Icons = document.querySelectorAll('.navigation .icon');
 Icons.forEach(icon => {
-    icons.addEventListener('click', () => {
+    icon.addEventListener('click', () => {
         changeactive();
         icon.classList.add('active-nav');
     });
