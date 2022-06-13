@@ -1,5 +1,6 @@
 import './home.css';
 import img from '../props/img2.jpg';
+import Buttons from '../button/button';
 import {BsMouse} from 'react-icons/bs' ;
 
 
@@ -33,7 +34,10 @@ function Home() {
             lorem
             lorem ipsum dolor sit amet consectetur adipiscing elit. 
             </p>
-            </h2>
+        </h2>
+
+        <Buttons />
+
         </div>
     );
 }
