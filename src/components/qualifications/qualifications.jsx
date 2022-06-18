@@ -1,4 +1,4 @@
-import './qualification.css'
+import './qualifications.css'
 
 const Qualification = () => {
     return (

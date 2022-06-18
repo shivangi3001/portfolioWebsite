@@ -13,4 +13,4 @@ function buttons (){
     );
 }
 
-export default Buttons;
+export default buttons;
