@@ -5,6 +5,7 @@ import Home from './components/home/home';
 import About from './components/about/about';
 import Members from './components/members/members';
 import Contact from './components/contact/contact';
+import Footer from './components/footer/footer';
 
 import './App.css';
 
