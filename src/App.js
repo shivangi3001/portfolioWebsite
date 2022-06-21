@@ -12,11 +12,15 @@ import './App.css';
 function WebContent() {
   return (
     <>
-
       <div className='bg-circle1'></div>
       <div className='bg-circle1'></div>
       <Header />
-
+      <Navbar />
+      <Home />
+      <About />
+      <Members />
+      <Contact />
+      <Footer />
     </>
   );
 }

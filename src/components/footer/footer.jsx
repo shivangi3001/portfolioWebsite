@@ -16,6 +16,19 @@ function Footer(){
                     </h2>
                 </a>
             </h1>
+            <div className="social-links">
+                <a href="#">
+                    <BsInstagram className='social' />
+                </a>
+                <a href="#">
+                    <TiSocialYoutube className='social' />
+                </a>
+                <a href="#">
+                    <TiSocialGithub className='social' />
+                </a>
+            </div>
         </div>
-    )
+    );
 }
+
+export default Footer;
